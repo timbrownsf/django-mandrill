@@ -1,0 +1,12 @@
+data/setup.py.i
+data/django_mandrill/models.py.i
+data/django_mandrill/mail/mandrillmail.py.i
+data/LICENSE.txt.i
+data/django_mandrill/mail/__init__.py.i
+data/django_mandrill/mail/backends/__init__.py.i
+data/.hgignore.i
+data/django_mandrill/tests.py.i
+data/django_mandrill/views.py.i
+data/README.rst.i
+data/django_mandrill/__init__.py.i
+data/django_mandrill/mail/backends/mandrillbackend.py.i
